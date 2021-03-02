@@ -31,11 +31,3 @@ for i in range(3):
     a = str(a)
     b = str(b)
     test(a,b)
-
-# if aVersion1>bVersion1:
-#     print("aVersion 大")
-# elif aVersion1==bVersion1:
-#     if aVersion2>bVersion2:
-#         print("aVersion 大")
-#     elif aVersion2==bVersion2:
-#         if aVersion2>bVersion2:
