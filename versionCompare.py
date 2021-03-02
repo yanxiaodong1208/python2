@@ -26,7 +26,6 @@ def test(aVersion, bVersion):
     else:
         print("bVersion 大")
 
-
 for i in range(3):
     a, b = input('输入aVersion,bVersion空格隔开:').split()
     a = str(a)
